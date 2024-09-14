@@ -2,7 +2,6 @@ package com.maruf.filmapp.dto;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.maruf.filmapp.domain.Film;
-import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
 import lombok.*;

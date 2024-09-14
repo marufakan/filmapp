@@ -6,7 +6,6 @@ import com.maruf.filmapp.exception.ResourceNotFoundException;
 import com.maruf.filmapp.repository.FilmRepository;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatusCode;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
